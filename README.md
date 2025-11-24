@@ -15,3 +15,12 @@ windows is not an easy task to do, and other than that i have to make neccessary
 _also creating a 6-month road-map for game-development in unreal engine. actually an adventage is to make cpp based games with it.  
 
 ____Day 003 Today was kind of a chill day, i've been to university all day and peracticing german all day. hope i become better at it, it's kind of stressing.
+
+____Day 004 today i want to practice, implament ques, stacks and also i have to bring my cat to the veterinarian what could go wrong.
+
+____Day 005 i decided to travel to netherland, i must remember, learn the language, learn the skills and be hopefull and everything will be done on it self. 
+i don't think it will happen this soon but hopefully in the next 4 years i'll be in the netherland.
+
+_also today  i'll be practicing sets and hash maps, in c++. i hope to make a good progress. 
+
+_i also have to study for physic-2 exam.
