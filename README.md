@@ -28,3 +28,7 @@ _i also have to study for physic-2 exam.
 ____Day 006 still practicing, nothing new.
 
 ____Day 007 Today iam still studying physic for university. practice hard, work hard live easy.
+
+____Day 008 Tomorrow iam taking the university physic-2 exam, wish me luck. 
+
+____Day 009 today mid-term exam was very difficult, i really messed up today. but you know what they say its just another point, i practice better next time
