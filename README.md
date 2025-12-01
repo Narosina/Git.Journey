@@ -34,3 +34,5 @@ ____Day 008 Tomorrow iam taking the university physic-2 exam, wish me luck.
 ____Day 009 today mid-term exam was very difficult, i really messed up today. but you know what they say its just another point, i practice better next time
 
 _Also today i started practicing, my english and making preperations for a level-up. and i just remembered it's late at night i probably should go to bed.
+
+____DAY 10 today i wanted to rest so it was day which i just reveiwed some codes, fineded a few diffrent libraries iwanted to test, ( For c++ obviously), and that was it tomorrow i have to check for this weeks software development check list, and study for a diffrent up coming exam and finally work on the micro projects which i was neglecting for a long time. so untill tomorrow goodbye.
