@@ -21,9 +21,9 @@ ____Day 004 today i want to practice, implament ques, stacks and also i have to 
 ____Day 005 i decided to travel to netherland, i must remember, learn the language, learn the skills and be hopefull and everything will be done on it self. 
 i don't think it will happen this soon but hopefully in the next 4 years i'll be in the netherland.
 
-_also today  i'll be practicing sets and hash maps, in c++. i hope to make a good progress. 
+_____also today  i'll be practicing sets and hash maps, in c++. i hope to make a good progress. 
 
-_i also have to study for physic-2 exam.
+_____i also have to study for physic-2 exam.
 
 ____Day 006 still practicing, nothing new.
 
@@ -33,7 +33,7 @@ ____Day 008 Tomorrow iam taking the university physic-2 exam, wish me luck.
 
 ____Day 009 today mid-term exam was very difficult, i really messed up today. but you know what they say its just another point, i practice better next time
 
-_Also today i started practicing, my english and making preperations for a level-up. and i just remembered it's late at night i probably should go to bed.
+_____Also today i started practicing, my english and making preperations for a level-up. and i just remembered it's late at night i probably should go to bed.
 
 ____DAY 10 today i wanted to rest so it was day which i just reveiwed some codes, fineded a few diffrent libraries iwanted to test, ( For c++ obviously), and that was it tomorrow i have to check for this weeks software development check list, and study for a diffrent up coming exam and finally work on the micro projects which i was neglecting for a long time. so untill tomorrow goodbye.
 
@@ -41,8 +41,10 @@ ____Day 011 Today i'm learning to apply certains changes to my github account, h
 
 ____Day 012 Today iam changing, my git hub for better so this episode is github improve NO.01.
 
-____changed some basic things, things im currently learning, things i done, Uni iam studying at these sort of thing.
+_____changed some basic things, things im currently learning, things i done, Uni iam studying at these sort of thing.
 
-____Added a contribute rating, and programming languages i learned. And of Course a goodread account. 
+_____Added a contribute rating, and programming languages i learned. And of Course a goodread account. 
 
-____Beside github studied a little bit of Big-O ( complexity analysis ), PS: I still need to get deeper but for now it works.
+_____Beside github studied a little bit of Big-O ( complexity analysis ), PS: I still need to get deeper but for now it works.
+
+____Day 013 hello its a diffrent day now that iam writing the journey which i dont think its very well written, but anyway i'm doing it to be a sign of my progress, Today i have to study for university but tomorrow i start learning, html and css. and ... i think i gonna practice for about a week. but after that i try going for react and flutter. 
