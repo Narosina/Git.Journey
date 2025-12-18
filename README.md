@@ -57,6 +57,8 @@ ____Day 016 today is html practice day doing some practice some training and may
 
 ____Day 17 today was, unfotunately was a very bad day. a day after tomorrow i have a university exam and today i was practicing and than i realized, to what extent. iam an iranian collage student in country that i cant even begin to hope for a better future, the whoel country is totall mess and i cant even getout do financiall problems. what is the use of waking up early in the morning all day, going to university learning new language, making a long list of projects, all this planning all this effort for what. the whole country is going to be at war soon, github deleted all my commits which i made over the last month ( now i look like a loser more than ever) and i dont have an income and nothing even looks good anymore. no parties no fun all ways just hard efforts and no gains. (PS: sorry for all this hard comments no one is going to read any of this anyway i just wanted to talk to someone so sorry for saying any of this in here its just depression talking.)   
 
+____Day 18 alright back again we getting close to uni's final exam's  so we are back on track this week doing small html/css projects and peracticing programming. 
+
 ____Day 18 a few days passed since my last log and today iam learning more and more, i have finished my exams ( For now ) so back to becoming better and better at programming.  trying to start my project series and cpp perfection series. 
 
 
