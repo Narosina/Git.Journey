@@ -63,3 +63,5 @@ ____Day 18 a few days passed since my last log and today iam learning more and m
 
 
 ____Day 19 today i mstarting my first sites and micro projects. also starting to search for opern source projects that i can contribute to .
+
+____Day 20 today iam finidhing my previous courses and trying to become a better programmer.  
